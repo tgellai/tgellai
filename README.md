@@ -37,14 +37,10 @@
   <a href="https://www.buymeacoffee.com/tgellai">
   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/tgellai" />
   </a>
-  
-<br>
 
   <a href="https://ko-fi.com/tamasgellai">
   <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/tamasgellai" /> 
   </a>
-
-<br>
   
   <a href="https://www.patreon.com/tamasgellai">
   <img align="left" src="https://niamhshaw.ie/wp-content/uploads/2021/05/Patreon-Button.png" height="50" width="210" alt="https://www.patreon.com/tamasgellai" /> 
